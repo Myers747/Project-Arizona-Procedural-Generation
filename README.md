@@ -1,4 +1,4 @@
-# Procedural-Terrain-1
+# Project-Arizona-Procedural-Generation
  This part of our project was made as a proof of concept, using a guide from Sebastian Lague.
  
  That guide can be found here: https://youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3
