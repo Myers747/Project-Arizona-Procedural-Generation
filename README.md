@@ -3,6 +3,8 @@
  
  That guide can be found here: https://youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3
  
- This college level summary, and guided example, of how to create a procedurally generating enviroment is what we followed along with to learn how to build a procedurally generating world in Unity & C#
+ This college level summary, and guided example, of how to create a procedurally generating enviroment is what we followed along with to learn how to build a procedurally generating world in Unity & C#.
+ 
+ As this was my focus for our Senior Design Project: Project Arizona, I hosted this build seperate from the main game due to merge difficulties.
  
  
